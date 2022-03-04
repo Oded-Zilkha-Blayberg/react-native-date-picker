@@ -1,6 +1,6 @@
 {
   "name": "@oded-zilkha-blayberg/react-native-date-picker",
-  "version": "4.2.0",
+  "version": "4.2.001",
   "description": "A datetime picker for React Native. In-modal or inlined. Supports Android and iOS.",
   "main": "src/index.js",
   "scripts": {
